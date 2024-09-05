@@ -132,7 +132,7 @@
 ## 🔗 منابع مفید دیگر
 
 - [NetworkChuck YouTube Channel](https://www.youtube.com/user/NetworkChuck)
-- [Fundamentals of Networking for Effective Backend Design](https://downloadly.ir/elearning/video-tutorials/fundamentals-of-networking-for-effective-backend-design/)
+- [Fundamentals of Network Engineering](https://downloadly.ir/elearning/video-tutorials/fundamentals-of-networking-for-effective-backend-design/)
 ## 💡 نکات مهم
 بارم‌بندی طبق طرح درس دکتر نادران به شرح زیر است:
 
