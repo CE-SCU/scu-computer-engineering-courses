@@ -31,7 +31,8 @@
 
 ## 📚 منابع درس
 - Thomas' Calculus
-<!-- - [دانلود کتاب]() -->
+    - [کتاب فارسی](https://engclubs.net/tag/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-pdf-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-%D8%AA%D9%88%D9%85%D8%A7%D8%B3) 
+    - [کتاب زبان اصلی](https://rodrigopacios.github.io/mrpacios/download/Thomas_Calculus.pdf)
 
 ## 📅 سیلابس معمول
 
