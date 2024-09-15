@@ -17,10 +17,10 @@
 ## 📚 منابع درس
 - **Database System Concepts (7th edition)**
   - گردآورندگان: Abraham Silberschatz, Henry F. Korth, and S. Sudarshan
-  <!-- - [لینک دانلود کتاب و اسلایدها]() -->
+  - [لینک دانلود کتاب](https://dl.ebooksworld.ir/motoman/Database-System-Concepts-7th-Edition-www.EBooksWorld.ir.rar)
 
 ## 🛠️ نرم‌افزارها
-[Microsoft SQL server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms)
 
 
 ## 📅 سیلابس درس
