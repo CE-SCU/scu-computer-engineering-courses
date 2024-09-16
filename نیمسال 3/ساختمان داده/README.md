@@ -66,8 +66,8 @@
 
 ## 🔗 منابع مفید دیگر
 - [GeeksforGeeks Data Structures Tutorial](https://www.geeksforgeeks.org/data-structures/) - آموزش‌های کاربردی
-- [Codecademy Data Structures Course](https://www.codecademy.com/learn/learn-data-structures) - دوره تعاملی آنلاین
-- [W3Schools Data Structures](https://www.w3schools.com/datastruct/) - آموزش‌های مقدماتی و متوسطه
+
+
 
 ## 💡 نکات مهم
 این درس معمولا 20 نمره پایان ترم است.
