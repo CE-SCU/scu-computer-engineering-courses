@@ -26,7 +26,7 @@
 1. **کتاب ساختمان‌های داده در C++** (نیم‌سال اول 1401)
    - نویسندگان: دکتر فاطمه سعادت جو (عضو هیئت علمی دانشگاه علم و هنر) و مهندس عرفان قندهاری (مدرس دانشگاه)
    - [لینک خرید کتاب](https://www.fadakbook.ir/product/19459/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D8%B1%D8%B3%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-%D8%AF%D8%B1-c-%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D8%AB%D8%A7%D9%84-%D9%88%D8%AA%D9%85%D8%B1%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A7%D8%AB%D8%B1-%D8%AF%DA%A9%D8%AA%D8%B1-%D9%81%D8%A7%D8%B7%D9%85%D9%87-%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA-%D8%AC%D9%88)
-   - [لینک دانلود PDF کتاب](https://drive.google.com/drive/u/0/folders/1Xj9ckbLPb6p5nfqoyZ8qGSf35dsJgfEY)
+   - [لینک دانلود PDF کتاب](https://drive.google.com/file/d/1RFwVAGPzoTnfdzWubSnJgrQgbnQDnVue/view?usp=drive_link)
 
 ## 📅 سیلابس معمول
 <table dir="rtl" style="width:100%; text-align:center; border:1px solid black; border-collapse:collapse;">
