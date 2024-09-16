@@ -2,20 +2,22 @@
 # 🖥️ ساختمان‌های داده
 
 ## 📊 اطلاعات کلی درس
-<table dir="rtl" style="width:100%; text-align:center; border:1px solid black; border-collapse:collapse;">
-<tr>
-  <th style="border:1px solid black;">کد درس</th>
-  <th style="border:1px solid black;">واحد</th>
-  <th style="border:1px solid black;">نوع درس</th>
-  <th style="border:1px solid black;">پیش‌نیازها</th>
-</tr>
-<tr>
-  <td style="border:1px solid black;">7777202</td>
-  <td style="border:1px solid black;">3</td>
-  <td style="border:1px solid black;">اصلی</td>
-  <td style="border:1px solid black;">ریاضیات گسسته و برنامه‌سازی پیشرفته</td>
-</tr>
-</table>
+<div style="text-align:center ; direction: rtl;">
+  <table border="1">
+    <tr>
+      <th>کد درس</th>
+      <th>واحد</th>
+      <th>نوع درس</th>
+      <th>پیش‌نیازها</th>
+    </tr>
+    <tr>
+      <td>7777202</td>
+      <td>3</td>
+      <td>اصلی</td>
+      <td><a href="/نیمسال 2/ریاضیات گسسته/README.md">ریاضیات گسسته</a> و <a href="/نیمسال%202/برنامه%20سازی%20پیشرفته/README.md">برنامه‌سازی پیشرفته</a></td>
+    </tr>
+  </table>
+</div>
 
 ## 🎯 اهداف درس
 این درس به دانشجویان مفاهیم پایه‌ای و پیشرفته ساختمان‌های داده را آموزش می‌دهد. درس معمولاً توسط دکتر علوی تدریس شده و اطلاعات زیر بر اساس تدریس‌های اخیر ایشان تنظیم شده است.
@@ -29,39 +31,40 @@
    - [لینک دانلود PDF کتاب](https://drive.google.com/file/d/1RFwVAGPzoTnfdzWubSnJgrQgbnQDnVue/view?usp=drive_link)
 
 ## 📅 سیلابس معمول
-<table dir="rtl" style="width:100%; text-align:center; border:1px solid black; border-collapse:collapse;">
-<tr>
-  <th style="border:1px solid black;">موضوع</th>
-</tr>
-<tr>
-  <td style="border:1px solid black;">مروری بر ساختمان داده‌ها</td>
-</tr>
-<tr>
-  <td style="border:1px solid black;">تحلیل پیچیدگی الگوریتم‌ها</td>
-</tr>
-<tr>
-  <td style="border:1px solid black;">آرایه‌ها</td>
-</tr>
-<tr>
-  <td style="border:1px solid black;">پشته‌ها و صف‌ها</td>
-</tr>
-<tr>
-  <td style="border:1px solid black;">لیست‌های پیوندی</td>
-</tr>
-<tr>
-  <td style="border:1px solid black;">درخت‌ها</td>
-</tr>
-<tr>
-  <td style="border:1px solid black;">گراف‌ها</td>
-</tr>
-<tr>
-  <td style="border:1px solid black;">روش‌های مرتب‌سازی</td>
-</tr>
-<tr>
-  <td style="border:1px solid black;">روش‌های جستجو</td>
-</tr>
-</table>
-
+<div style="text-align: center; direction: rtl;">
+  <table border="1">
+    <tr>
+      <th>موضوع</th>
+    </tr>
+    <tr>
+      <td>مروری بر ساختمان داده‌ها</td>
+    </tr>
+    <tr>
+      <td>تحلیل پیچیدگی الگوریتم‌ها</td>
+    </tr>
+    <tr>
+      <td>آرایه‌ها</td>
+    </tr>
+    <tr>
+      <td>پشته‌ها و صف‌ها</td>
+    </tr>
+    <tr>
+      <td>لیست‌های پیوندی</td>
+    </tr>
+    <tr>
+      <td>درخت‌ها</td>
+    </tr>
+    <tr>
+      <td>گراف‌ها</td>
+    </tr>
+    <tr>
+      <td>روش‌های مرتب‌سازی</td>
+    </tr>
+    <tr>
+      <td>روش‌های جستجو</td>
+    </tr>
+  </table>
+</div>
 
 
 ## 🔗 منابع مفید دیگر
