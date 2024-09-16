@@ -22,7 +22,7 @@
 
 - [لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd)
 
-- [لینوکس و زنذگی](https://linuxbook.ir/chapters/linux_philosophy.html)
+- [لینوکس و زندگی](https://linuxbook.ir/chapters/linux_philosophy.html)
 
 
 ## 🛠️ نرم‌افزارها
