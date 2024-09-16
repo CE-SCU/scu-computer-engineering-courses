@@ -33,4 +33,16 @@
 </a>
 
 
+## ارتباط با ما
+
+برای ارتباط با ما می‌توانید از طریق شبکه‌های اجتماعی زیر اقدام کنید:
+
+<a href="https://www.instagram.com/ce_scu" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px; height:40px;"/>
+</a>
+
+<a href="https://t.me/ce_scu" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width:40px; height:40px;"/>
+</a>
+
 
