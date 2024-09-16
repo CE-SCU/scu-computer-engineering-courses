@@ -14,7 +14,7 @@
 ![gif](./تصاویر/gif.gif)
 
 ## 📚 منابع مفید
-- دستور کارهای دکتر لویمی و نمونه گزارش‌های کار را می‌توانید از [این لینک](./دکتر%20لویمی/نمونه%20گزارش%20کار) دانلود کنید.
+- دستور کارهای دکتر لویمی و نمونه گزارش‌های کار را می‌توانید از [این لینک](https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%206/%D8%A2%D8%B2%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%B9%D8%A7%D9%85%D9%84/%D8%AF%DA%A9%D8%AA%D8%B1%20%D9%84%D9%88%DB%8C%D9%85%DB%8C) دانلود کنید.
 
 - [geeksforgeeks](https://www.geeksforgeeks.org/linux-tutorial/)
 
