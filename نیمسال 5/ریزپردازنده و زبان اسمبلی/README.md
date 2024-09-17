@@ -69,6 +69,7 @@ AVR
 ---
 - [AVR Freaks Forum](https://www.avrfreaks.net/) - انجمن برنامه‌نویسان AVR
 - [Stack Overflow Assembly](https://stackoverflow.com/questions/tagged/assembly) - پرسش و پاسخ درباره زبان اسمبلی
+- [x86-Assembly Code Examples](https://github.com/parsa-black/x86-Assembly) - نمونه کد اسمبلی 8086
 
 ## 💡 نکات مهم
 بارم بندی:
