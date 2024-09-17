@@ -28,7 +28,7 @@
 ## 🎯 اهداف درس
 در این درس شما با معماری ریزپردازنده‌ها و برنامه‌نویسی به زبان اسمبلی آشنا خواهید شد. همچنین در نیمه دوم ترم با زبان AVR برای برنامه‌نویسی میکروکنترلرها کار خواهید کرد. هدف این است که دانشجویان با اصول طراحی و پیاده‌سازی سیستم‌های مبتنی بر ریزپردازنده‌ها آشنا شوند.
 
-![Assembly Programming](تصاویر/download.jfif)
+![Assembly Programming](تصاویر/led3.webp)
 
 ## 📚 منابع درس
 - **ریزپردازنده و اسمبلی**
@@ -41,6 +41,8 @@
 
 ## 🛠️ نرم‌افزارها
 
+[Emu8086](https://p30download.ir/fa/entry/36259/emu8086) - شبیه‌ساز کامل برای پردازنده‌های 8086 به منظور یادگیری زبان اسمبلی
+
 [Proteus](https://soft98.ir/software/engineering/3535-%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-proteus.html) - شبیه‌ساز و ابزار طراحی مدار برای شبیه‌سازی مدارات الکترونیکی و میکروکنترلرها
 
 [CodeVisionAVR](https://soft98.ir/tags/%D9%86%D8%B1%D9%85+%D8%A7%D9%81%D8%B2%D8%A7%D8%B1+codevisionavr/) -
@@ -50,7 +52,6 @@
 
 [Hattel Pocket Programmer](https://dostanelectronic.com/view-download?id=14&download=%D9%88%D8%B1%DA%98%D9%86%20%D8%AC%D8%AF%DB%8C%D8%AF%20%D9%87%D8%A7%D8%AA%D9%84%20V%205.57) - پروگرامر جهت برنامه‌ریزی و تست میکروکنترلرها
 
-[Emu8086](https://p30download.ir/fa/entry/36259/emu8086) - شبیه‌ساز کامل برای پردازنده‌های 8086 به منظور یادگیری زبان اسمبلی
 
 
 
@@ -67,9 +68,12 @@ AVR
 - [فرادرس 1](https://faradars.org/courses/fvsft117-assembly-programming)
 - [فرادرس 2](https://faradars.org/courses/fvee9901-design-of-microprocessor-systems-using-emu8086-and-codevisionavr)
 ---
+- [x86-Assembly Code Examples](https://github.com/parsa-black/x86-Assembly) - نمونه کد اسمبلی 8086
+
+- [کتاب خانم جسیکا کارد برای اسمبلی](https://github.com/hackclub/some-assembly-required)
+
 - [AVR Freaks Forum](https://www.avrfreaks.net/) - انجمن برنامه‌نویسان AVR
 - [Stack Overflow Assembly](https://stackoverflow.com/questions/tagged/assembly) - پرسش و پاسخ درباره زبان اسمبلی
-- [x86-Assembly Code Examples](https://github.com/parsa-black/x86-Assembly) - نمونه کد اسمبلی 8086
 
 ## 💡 نکات مهم
 بارم بندی:
