@@ -29,6 +29,10 @@
 
 ## 📊 مشارکت‌کنندگان
 
+<a href="https://github.com/CE-SCU/scu-computer-engineering-courses/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CE-SCU/scu-computer-engineering-courses" alt="Contributors"/>
+</a>
+
 
 
 ## ارتباط با ما
