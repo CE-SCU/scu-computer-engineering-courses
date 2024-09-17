@@ -3,8 +3,8 @@
 # 🖥️ ریاضیات گسسته
 
 ## 📊 اطلاعات کلی درس
-<div style="text-align: right; direction: rtl;">
-    <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
         <thead>
             <tr>
                 <th>کد درس</th>
@@ -49,8 +49,8 @@
    - [لینک](https://behforooz.com/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B3%D8%AA%D9%87-%D9%88-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-%D9%87%D8%A7/)
 
 ## 📅 سیلابس معمول
-<div style="text-align: right; direction: rtl;">
-    <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
         <thead style="text-align: center;">
             <tr>
                 <th>موضوع</th>

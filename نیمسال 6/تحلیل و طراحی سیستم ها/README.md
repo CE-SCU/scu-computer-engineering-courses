@@ -1,9 +1,13 @@
 # 📊 تحلیل و طراحی سیستم‌ها
 
 ## 📚 اطلاعات کلی درس
+<div align="center">
+
 | کد درس  | واحد | نوع درس | پیش‌نیاز              |
 |:-------:|:----:|:--------:|:---------------------:|
 | 7777135 |  3   | تخصصی    | برنامه‌سازی پیشرفته |
+
+</div>
 
 ---
 
@@ -29,7 +33,8 @@
 
 
 ## 📅 سیلابس درس
-<table border="1" style="width: 100%; border-collapse: collapse; text-align: left;">
+<div align="center" style="direction: rtl">
+    <table border="1" style="width: 100%; border-collapse: collapse; text-align: left;">
     <thead>
         <tr>
             <th>موضوع</th>
@@ -65,9 +70,8 @@
 
 
 ## 💡 نکات مهم
-
-<div style="text-align: center; direction: rtl;">
-    <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: center;">
         <thead>
             <tr>
                 <th>آزمون‌ها و پروژه‌ها</th>

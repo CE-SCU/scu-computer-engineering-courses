@@ -2,8 +2,8 @@
 # 🧪 آزمایشگاه پایگاه داده‌ها
 
 ## 📊 اطلاعات کلی درس
-<div style="text-align:center ; direction: rtl;">
-  <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
     <tr>
         <th>کد درس</th>
         <th>واحد</th>
@@ -38,8 +38,8 @@
 
 ## 📅 سیلابس معمول
 
-<div style="text-align:center ; direction: rtl;">
-  <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
     <tr>
         <th>هفته</th>
         <th>موضوع</th>

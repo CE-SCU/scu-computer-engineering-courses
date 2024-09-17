@@ -1,10 +1,9 @@
 [↩️ صفحه اصلی](/README.md)
 
 # 💻 ریزپردازنده و اسمبلی
-
 ## 📊 اطلاعات کلی درس
-<div style="text-align: right; direction: rtl;">
-    <table border="1" style="border-collapse: collapse; width: 50%;">
+<div style="direction: rtl;">
+    <table align="center" border="1" style="text-align: right; border-collapse: collapse; width: 50%;">
         <thead>
             <tr>
                 <th>کد درس</th>
@@ -77,8 +76,8 @@ AVR
 
 ## 💡 نکات مهم
 بارم بندی:
-<div style="text-align: right; direction: rtl;">
-    <table border="1" style="width: 50%; margin: 0 auto; border-collapse: collapse;">
+<div align="center" style="direction: rtl;">
+    <table border="1" style="text-align: right; width: 50%; margin: 0 auto; border-collapse: collapse;">
         <thead>
             <tr>
                 <th>مورد</th>

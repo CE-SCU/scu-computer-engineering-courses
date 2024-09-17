@@ -3,8 +3,8 @@
 # 💻 کارگاه کامپیوتر
 
 ## 📊 اطلاعات کلی درس
-<div style="text-align: right; direction: rtl;">
-    <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
         <thead>
             <tr>
                 <th>کد درس</th>
@@ -35,8 +35,8 @@
 تمام موارد زیر بر اساس تدریس **مهندس امید ادیب‌فر** در ترم 14001 ارائه می‌شود.
 
 ## 📅 سیلابس درس
-<div style="text-align: right; direction: rtl;">
-    <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
         <thead>
             <tr>
                 <th>هفته</th>
@@ -89,8 +89,8 @@
 </div>
 
 ## 💡 نکات مهم:
-<div style="text-align: right; direction: rtl;">
-    <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
         <thead>
             <tr>
                 <th>نوع ارزیابی</th>

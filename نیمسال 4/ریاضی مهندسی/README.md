@@ -3,8 +3,8 @@
 # 📐 ریاضی مهندسی
 
 ## 📊 اطلاعات کلی درس
-<div style="text-align: right; direction: rtl;">
-    <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
         <thead>
             <tr>
                 <th>کد درس</th>
@@ -39,8 +39,8 @@
 
 این سیلابس بر اساس تدریس **دکتر یاراحمدی** از گروه ریاضی ارائه می‌شود:
 
-<div style="text-align: right; direction: rtl;">
-    <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
         <thead>
             <tr>
                 <th>موضوع</th>

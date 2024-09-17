@@ -1,8 +1,8 @@
 ### 🖥️ طراحی الگوریتم‌ها
 
 ## 📊 اطلاعات کلی درس
-<div style="text-align:center ; direction: rtl;">
-  <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
     <tr>
       <th>کد درس</th>
       <th>واحد</th>
@@ -31,8 +31,8 @@
    - [لینک دانلود جزوه‌ها](https://drive.google.com/drive/folders/1jPysV403KXMAXyXZf8hgJY0_g_8Gu61C?usp=drive_link)
 
 ## 📅 سیلابس معمول
-<div style="text-align:center ; direction: rtl;">
-  <table border="1">
+<div align="center" style="direction: rtl">
+    <table border="1" style="text-align: right;">
     <tr>
       <th">موضوع</th>
     </tr>
