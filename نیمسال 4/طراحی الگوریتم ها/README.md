@@ -34,34 +34,34 @@
 <div align="center" style="direction: rtl">
     <table border="1" style="text-align: right;">
     <tr>
-      <th">موضوع</th>
+      <th>موضوع</th>
     </tr>
     <tr>
-      <td">مرتبه‌های زمانی</td>
+      <td>مرتبه‌های زمانی</td>
     </tr>
     <tr>
-      <td">مرتب‌سازی</td>
+      <td>مرتب‌سازی</td>
     </tr>
     <tr>
-      <td">توابع بازگشتی</td>
+      <td>توابع بازگشتی</td>
     </tr>
     <tr>
-      <td">جست‌وجوی دودویی</td>
+      <td>جست‌وجوی دودویی</td>
     </tr>
     <tr>
-      <td">درخت</td>
+      <td>درخت</td>
     </tr>
     <tr>
-      <td">گراف</td>
+      <td>گراف</td>
     </tr>
     <tr>
-      <td">الگوریتم‌های حریصانه</td>
+      <td>الگوریتم‌های حریصانه</td>
     </tr>
     <tr>
-      <td">برنامه‌نویسی پویا</td>
+      <td>برنامه‌نویسی پویا</td>
     </tr>
     <tr>
-      <td">مسائل NP</td>
+      <td>مسائل NP</td>
     </tr>
   </table>
 </div>
