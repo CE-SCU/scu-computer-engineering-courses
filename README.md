@@ -45,7 +45,7 @@
   <tr>
     <td>نیمسال 4</td>
     <td>
-      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/روش%20پژوهش%20و%20ارائه/README.md" style="color: red;">روش پژوهش و ارائه</a><br>
+      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/روش%20پژوهش%20و%20ارائه/README.md" style="color: green;">روش پژوهش و ارائه</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/طراحی%20الگوریتم%20ها/README.md" style="color: green;">طراحی الگوریتم ها</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/معماری%20کامپیوتر/README.md" style="color: red;">معماری کامپیوتر</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/نظریه%20زبان%20ها%20و%20ماشین%20ها/README.md" style="color: red;">نظریه زبان ها و ماشین ها</a><br>
@@ -101,10 +101,14 @@
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%208/سیستم%20های%20نهفته%20و%20بی%20درنگ/README.md" style="color: red;">سیستم های نهفته و بی درنگ</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%208/طراحی%20زبان%20های%20برنامه%20سازی/README.md" style="color: red;">طراحی زبان های برنامه سازی</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%208/طراحی%20کامپیوتری%20سیستم%20های%20دیجیتال/README.md" style="color: green;">طراحی کامپیوتری سیستم های دیجیتال</a><br>
-      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%208/مبانی%20بینایی%20کامپیوتر/README.md" style="color: red;">مبانی بینایی کامپیوتر</a><br>
+      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%208/مبانی%20بینایی%20کامپیوتر/README.md" style="color: green;">مبانی بینایی کامپیوتر</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%208/مبانی%20شبکه%20های%20بی%20سیم/README.md" style="color: red;">مبانی شبکه های بی سیم</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%208/داده%20کاوی/README.md" style="color: green;">داده کاوی</a>
     </td>
+  </tr>
+  <tr>
+  <td>پس از گذراندن 100 واحد</td>
+  <td> <a href= "https://github.com/CE-SCU/scu-computer-engineering-courses/blob/main/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1/README.md" style="color: red;"> پروژه مهندسی نرم افزار</a></td>
   </tr>
 </table>
 
