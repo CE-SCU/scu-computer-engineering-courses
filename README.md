@@ -58,7 +58,7 @@
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%205/آزمایشگاه%20مدار%20منطقی%20و%20معماری%20کامپیوتر/README.md" style="color: red;">آزمایشگاه مدار منطقی و معماری کامپیوتر</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%205/ریزپردازنده%20و%20زبان%20اسمبلی/README.md" style="color: green;">ریزپردازنده و زبان اسمبلی</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%205/سیستم%20های%20عامل/README.md" style="color: green;">سیستم های عامل</a><br>
-      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%205/سیگنال%20ها%20و%20سیستم%20ها/README.md" style="color: red;">سیگنال ها و سیستم ها</a><br>
+      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%205/سیگنال%20ها%20و%20سیستم%20ها/README.md" style="color: green;">سیگنال ها و سیستم ها</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%205/مدار%20های%20الکتریکی/README.md" style="color: red;">مدار های الکتریکی</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%205/پایگاه%20داده%20ها/README.md" style="color: green;">پایگاه داده ها</a>
     </td>
