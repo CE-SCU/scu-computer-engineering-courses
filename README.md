@@ -84,7 +84,7 @@
   <tr>
     <td>نیمسال 7</td>
     <td>
-      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%207/آزمایشگاه%20شبکه%20های%20کامپیوتری/README.md" style="color: red;">آزمایشگاه شبکه های کامپیوتری</a><br>
+      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%207/آزمایشگاه%20شبکه%20های%20کامپیوتری/README.md" style="color: green;">آزمایشگاه شبکه های کامپیوتری</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%207/امنیت%20شبکه/README.md" style="color: red;">امنیت شبکه</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%207/انتقال%20داده/README.md" style="color: red;">انتقال داده</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%207/مبانی%20هوش%20محاسباتی/README.md" style="color: red;">مبانی هوش محاسباتی</a><br>
