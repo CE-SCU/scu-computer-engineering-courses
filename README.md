@@ -48,7 +48,7 @@
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/روش%20پژوهش%20و%20ارائه/README.md" style="color: green;">روش پژوهش و ارائه</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/طراحی%20الگوریتم%20ها/README.md" style="color: green;">طراحی الگوریتم ها</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/معماری%20کامپیوتر/README.md" style="color: red;">معماری کامپیوتر</a><br>
-      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/نظریه%20زبان%20ها%20و%20ماشین%20ها/README.md" style="color: red;">نظریه زبان ها و ماشین ها</a><br>
+      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/نظریه%20زبان%20ها%20و%20ماشین%20ها/README.md" style="color: green;">نظریه زبان ها و ماشین ها</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%204/ریاضی%20مهندسی/README.md" style="color: green;">ریاضی مهندسی</a>
     </td>
   </tr>
