@@ -109,7 +109,7 @@
   </tr>
   <tr>
   <td>پس از گذراندن 100 واحد</td>
-  <td> <a href= "https://github.com/CE-SCU/scu-computer-engineering-courses/blob/main/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1/README.md" style="color: red;"> پروژه مهندسی نرم افزار</a></td>
+  <td> <a href= "https://github.com/CE-SCU/scu-computer-engineering-courses/blob/main/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%20%D9%86%D8%B1%D9%85%20%D8%A7%D9%81%D8%B2%D8%A7%D8%B1/README.md" style="color: green;"> پروژه مهندسی نرم افزار</a></td>
   </tr>
 </table>
 
