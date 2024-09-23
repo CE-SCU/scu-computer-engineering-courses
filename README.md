@@ -24,7 +24,8 @@
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%201/مبانی%20کامپیوتر%20و%20برنامه%20سازی/README.md" style="color: green;">مبانی کامپیوتر و برنامه سازی</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%201/کارگاه%20کامپیوتر/README.md" style="color: green;">کارگاه کامپیوتر</a><br>
       <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%201/فیزیک%201/README.md" style="color: green;">فیزیک 1</a><br>
-      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%201/ریاضی%201/README.md" style="color: green;">ریاضی 1</a>
+      <a href="https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/نیمسال%201/ریاضی%201/README.md" style="color: green;">ریاضی 1</a><br>
+      <a href="./نیمسال 1/زبان خارجی/README.md" style="color: green;">زبان خارجی</a>
     </td>
   </tr>
   <tr>
