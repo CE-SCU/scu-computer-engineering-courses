@@ -31,10 +31,10 @@
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - نرم‌افزار سرور پایگاه داده
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms) - محیط مدیریت و کوئری‌گیری
 
-- 📄 [گزارش نحوه نصب](https://github.com/CE-SCU/scu-computer-engineering-courses/blob/main/%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%205/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%D9%87%20%D9%87%D8%A7/%D8%AF%D8%A7%DA%A9%DB%8C%D9%88%D9%85%D9%86%D8%AA%20%D9%87%D8%A7/%D9%86%D8%B5%D8%A8.pdf)
+- 📄 [گزارش نحوه نصب](./%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%205/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%D9%87%20%D9%87%D8%A7/%D8%AF%D8%A7%DA%A9%DB%8C%D9%88%D9%85%D9%86%D8%AA%20%D9%87%D8%A7/%D9%86%D8%B5%D8%A8.pdf)
 
 ## 🗂️ نمونه گزارش کارها
-[لینک گزارش کارهای دانشجویان](https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%205/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%D9%87%20%D9%87%D8%A7/%D8%AF%D8%A7%DA%A9%DB%8C%D9%88%D9%85%D9%86%D8%AA%20%D9%87%D8%A7)
+[لینک گزارش کارهای دانشجویان](./%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%205/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%D9%87%20%D9%87%D8%A7/%D8%AF%D8%A7%DA%A9%DB%8C%D9%88%D9%85%D9%86%D8%AA%20%D9%87%D8%A7)
 
 ## 📅 سیلابس معمول
 

@@ -36,7 +36,7 @@
 ## 📚 منابع درس
 
 - **Darrell Hajek, Cesar Herrera, "Introduction to Computers, 2022 Edition," CreateSpace Independent Publishing Platform, 2022.**  
-  - [لینک دانلود کتاب](https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%203/%D8%B2%D8%A8%D8%A7%D9%86%20%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C/Course%20references%20ESP)
+  - [لینک دانلود کتاب](./%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%203/%D8%B2%D8%A8%D8%A7%D9%86%20%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C/Course%20references%20ESP)
 
 - **Remacha Esteras, Santiago; Marco Fabre, Elena. "Professional English in Use for Computers and the Internet." Cambridge: Cambridge University Press, 2007.**
 - **Remacha Esteras, Santiago. "Infotech English for Computer Users (Student’s Book), 4th Edition." Cambridge: Cambridge University Press, 2008.**

@@ -20,7 +20,7 @@
 ## 📚 منابع درس
 - **Introduction to Autonomous Mobile Robots**
   - گردآورندگان: Roland Siegwart و Illah R. Nourbakhsh
-  - [لینک دانلود کتاب و اسلایدها](https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%208/%D8%A7%D8%B5%D9%88%D9%84%20%D8%B1%D8%A8%D8%A7%D8%AA%DB%8C%DA%A9%D8%B2/%D9%85%D9%86%D8%A7%D8%A8%D8%B9/%D9%85%D9%86%D8%A7%D8%A8%D8%B9%20%D8%AF%DA%A9%D8%AA%D8%B1%20%D8%A7%D9%81%D8%B4%D9%86%20%D9%82%D9%86%D8%A8%D8%B1%20%D8%B2%D8%A7%D8%AF%D9%87)
+  - [لینک دانلود کتاب و اسلایدها](./%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%208/%D8%A7%D8%B5%D9%88%D9%84%20%D8%B1%D8%A8%D8%A7%D8%AA%DB%8C%DA%A9%D8%B2/%D9%85%D9%86%D8%A7%D8%A8%D8%B9/%D9%85%D9%86%D8%A7%D8%A8%D8%B9%20%D8%AF%DA%A9%D8%AA%D8%B1%20%D8%A7%D9%81%D8%B4%D9%86%20%D9%82%D9%86%D8%A8%D8%B1%20%D8%B2%D8%A7%D8%AF%D9%87)
 
 ## 🛠️ نرم‌افزارها
 [Webots](https://www.cyberbotics.com/) - شبیه‌ساز رباتیک برای برنامه‌ریزی و مدل‌سازی ربات‌ها

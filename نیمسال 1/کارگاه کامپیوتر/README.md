@@ -20,7 +20,7 @@
                 <td>1</td>
                 <th>اصلی</th>
                 <td>ندارد</td>
-                <td><a href="https://github.com/CE-SCU/scu-computer-engineering-courses/blob/main/%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%201/%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1%20%D9%88%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D8%B3%D8%A7%D8%B2%DB%8C/README.md">مبانی کامپیوتر و برنامه سازی</a></td>
+                <td><a href="./%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%201/%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1%20%D9%88%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D8%B3%D8%A7%D8%B2%DB%8C/README.md">مبانی کامپیوتر و برنامه سازی</a></td>
             </tr>
         </tbody>
     </table>

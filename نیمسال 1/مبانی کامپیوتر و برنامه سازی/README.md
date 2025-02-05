@@ -19,7 +19,7 @@
 ## 📚 منابع اصلی درس
 1. **C++ How to Program** (11th Edition)
    - نویسندگان: Paul Deitel و Harvey Deitel
-   - [لینک دانلود کتاب](https://github.com/CE-SCU/scu-computer-engineering-courses/tree/main/%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%201/%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1%20%D9%88%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D8%B3%D8%A7%D8%B2%DB%8C/%D9%85%D9%86%D8%A7%D8%A8%D8%B9)
+   - [لینک دانلود کتاب](./%D9%86%DB%8C%D9%85%D8%B3%D8%A7%D9%84%201/%D9%85%D8%A8%D8%A7%D9%86%DB%8C%20%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1%20%D9%88%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D8%B3%D8%A7%D8%B2%DB%8C/%D9%85%D9%86%D8%A7%D8%A8%D8%B9)
 
 2. **videos**
     - [ویدیو های تدریس مهندس نیکوکار در سال 99](https://drive.google.com/drive/folders/18hOixa75uMeygkvMNvfYCKuEGv39Cok_?usp=drive_link)
