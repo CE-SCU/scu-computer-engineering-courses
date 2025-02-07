@@ -122,10 +122,13 @@
 - [Machine Learning Mastery - NLP Tutorials](https://machinelearningmastery.com/start-here/#nlp) - آموزش‌های عملی NLP
 
 
-## 📝پروژه‌های دانشجویان این درس با دکتر جادریان
+## 📝پروژه‌های دانشجویان
 
-- [📌 پروژه‌ دانشجویان ورودی ۹۹](https://github.com/foadas/nlp_project)
-- [📌 پروژه دانشجویان ورودی ۴۰۰](https://github.com/sabihdordab/NLP)
+- 📌 پروژه‌های ترم 1402-1 (دکتر جادریان)
+  - https://github.com/foadas/nlp_project
+<br/>
+- 📌 پروژه‌های ترم 1403-1 (دکتر جادریان)
+- - https://github.com/sabihdordab/NLP
 
 
 ---
