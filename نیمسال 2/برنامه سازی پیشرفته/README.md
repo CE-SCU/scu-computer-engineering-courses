@@ -18,7 +18,7 @@
 
 ## 📚 منابع اصلی 
 
-1. **[Java, How To Program](https://github.com/GoodVibes833/Java_basic/blob/master/(How%20to%20Program)%20Paul%20Deitel,%20Harvey%20Deitel-Java%20How%20to%20Program,%20Early%20Objects-Pearson%20Education%20(2015)%20copy.pdf)**
+1. **[Java, How To Program](https://raw.githubusercontent.com/GoodVibes833/Java_basic/master/(How%20to%20Program)%20Paul%20Deitel,%20Harvey%20Deitel-Java%20How%20to%20Program,%20Early%20Objects-Pearson%20Education%20(2015)%20copy.pdf)**
     - Paul Deitel, Harvey Deitel
 
 2. **Simply Java Programming: An Application-Driven Tutorial Approach**
