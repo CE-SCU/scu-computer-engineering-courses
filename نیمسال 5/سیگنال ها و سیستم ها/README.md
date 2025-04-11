@@ -78,8 +78,8 @@
 <div align="right">
 
 ### منابع فارسی
-- [دوره آموزشی سیگنال و سیستم - دکتر شفیعیان (آپارات)](https://www.aparat.com/v/J8FmM)
-- [درس سیگنال و سیستم - مکتب‌خونه](https://maktabkhooneh.org/course/%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%88-%D8%B3%D9%8A%D8%B3%D8%AA%D9%85-mk75/#chapter)
+- [دوره آموزشی سیگنال و سیستم - دکتر شفیعیان (آپارات)](https://www.aparat.com/playlist/567485)
+- درس سیگنال و سیستم برق دانشگاه شریف - دکتر مسعود بابایی زاده [(ocw)](https://ocw.sharif.ir/course/id/23/%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%88-%D8%B3%D9%8A%D8%B3%D8%AA%D9%85) [(مکتب‌خونه)](https://maktabkhooneh.org/course/%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D9%88-%D8%B3%D9%8A%D8%B3%D8%AA%D9%85-mk75/#chapter)
 - [تحلیل سیگنال‌ها و سیستم‌ها - فرادرس](https://faradars.org/courses/fvssa9408-analysis-of-signals-and-systems)
 
 ### منابع انگلیسی
